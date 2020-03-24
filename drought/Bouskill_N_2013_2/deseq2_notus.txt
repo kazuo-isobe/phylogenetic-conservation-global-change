@@ -1,0 +1,2 @@
+total	increase	decrease
+1730	722	1008
