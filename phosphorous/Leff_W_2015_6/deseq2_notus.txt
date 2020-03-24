@@ -1,0 +1,2 @@
+total	increase	decrease
+1275	525	750

@@ -1,0 +1,2 @@
+total	increase	decrease
+1232	648	584
