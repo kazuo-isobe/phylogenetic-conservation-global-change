@@ -1,0 +1,2 @@
+total	increase	decrease
+2298	1127	1171
