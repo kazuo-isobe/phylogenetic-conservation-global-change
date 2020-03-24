@@ -1,0 +1,2 @@
+total	increase	decrease
+1077	460	617

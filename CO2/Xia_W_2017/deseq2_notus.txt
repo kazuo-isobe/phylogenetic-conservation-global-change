@@ -1,0 +1,2 @@
+total	increase	decrease
+719	399	320

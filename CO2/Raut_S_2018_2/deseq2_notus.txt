@@ -1,0 +1,2 @@
+total	increase	decrease
+1755	996	759
